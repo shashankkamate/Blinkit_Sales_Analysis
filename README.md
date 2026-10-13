@@ -20,7 +20,7 @@ The goal was to convert complex data into clear information that can help stakeh
 
 > Add your actual dashboard screenshot below to give recruiters an immediate view of your work.
 
-![Blinkit Sales Analysis Dashboard](images/blinkit_dashboard.png)
+![Blinkit Sales Analysis Dashboard](https://github.com/shashankkamate/Blinkit_Sales_Analysis/blob/1f4a6addb8cfca9570c107f6a35f2d2b49f265e3/Blinkit_Dashbard.png)
 
 *Interactive Power BI dashboard featuring sales KPIs, product analysis, outlet comparisons, and business performance indicators.*
 
